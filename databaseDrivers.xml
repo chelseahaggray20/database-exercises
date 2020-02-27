@@ -132,5 +132,13 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
+    <driver id="a50ff0ca-0366-44ac-b0d9-47ec9000ac6a" name="User Driver [2]" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
   </component>
 </application>
