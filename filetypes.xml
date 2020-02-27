@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ads" type="JAVA" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="design" type="PLAIN_TEXT" />
       <mapping pattern=".git ignore" type="PLAIN_TEXT" />
